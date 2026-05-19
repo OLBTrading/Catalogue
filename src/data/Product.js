@@ -21,7 +21,7 @@ import meriden3tap from "../assets/images/meriden-3-tap-hole-basin-mixer-tap-set
 import insto2028 from "../assets/images/Sanitaryware_Kinsley_INST02028_Image1.jpg"
 import lev181 from "../assets/images/lev-181-prsh.jpg"
 import lev185b from "../assets/images/lev-185b-prsh.jpg"
-import esrtp4 from "../assets/images/ESRTP4-touch-2.png"
+import esrtp4 from "../assets/images/ESRTP4-Touch-2.png"
 import ubcan52sv from "../assets/images/600_UBCAN52SV.2.png"
 import blancocamia from "../assets/images/26267.jpg"
 import niagara9301brs from "../assets/images/2G210520.jpg"
