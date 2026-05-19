@@ -21,6 +21,10 @@ import meriden3tap from "../assets/images/meriden-3-tap-hole-basin-mixer-tap-set
 import insto2028 from "../assets/images/Sanitaryware_Kinsley_INST02028_Image1.jpg"
 import lev181 from "../assets/images/lev-181-prsh.jpg"
 import lev185b from "../assets/images/lev-185b-prsh.jpg"
+import esrtp4 from "../assets/images/ESRTP4-touch-2.png"
+import ubcan52sv from "../assets/images/600_UBCAN52SV.2.png"
+import blancocamia from "../assets/images/26267.jpg"
+import niagara9301brs from "../assets/images/2G210520.jpg"
 
 const products = [
   {
@@ -73,7 +77,7 @@ const products = [
     slug: "esi-touch-thermostat",
     name: "Esi Touch Twin Channel Programmable Room Thermostat ESRTP4TOUCH",
     description: "",
-    image: "",
+    image: "esrtp4",
     ebayLink: "",
   },
 
@@ -118,7 +122,7 @@ const products = [
     slug: "blanco-camia",
     name: "Blanco Camia Chrome Twin Lever No. 525334",
     description: "",
-    image: "",
+    image: "blancocamia",
     ebayLink: "",
   },
 
@@ -145,7 +149,7 @@ const products = [
     slug: "cata-canopy-hood",
     name: "Cata 52cm Canopy Hoods UBCAN52SV.1",
     description: "",
-    image: "",
+    image: "ubcan52sv",
     ebayLink: "",
   },
 
@@ -163,7 +167,7 @@ const products = [
     slug: "vado-irlo-bath-shower-mixer",
     name: "Vado Irlo Deck Mounted Bath/Shower Mixer + Shower Kit AX-IRO-130+K-CP",
     description: "",
-    image: "",
+    image: axiro130k,
     ebayLink: "",
   },
 
@@ -199,7 +203,7 @@ const products = [
     slug: "niagara-shower-set",
     name: "Niagara Equate Round Thermostatic Shower Set – Brushed Brass 9301BRS",
     description: "",
-    image: "",
+    image: "niagara9301brs",
     ebayLink: "",
   },
 
