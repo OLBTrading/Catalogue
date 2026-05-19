@@ -1,5 +1,5 @@
 import draytonImg from "../assets/images/draytonlp711.jpg"
-import keyboardImg from "../assets/images/bc-axb-131-bn-prsh.jpg"
+import bcaxb131bnprsh from "../assets/images/bc-axb-131-bn-prsh.jpg"
 import showerImg from "../assets/images/ax-sir-mfsp-cp-1.webp"
 import salus210 from "../assets/images/SALUS EP210.jpg"
 import motorvalve from "../assets/images/7b9a75dd-3d63-4048-b2c3-7dfb95931a80.png"
@@ -10,7 +10,7 @@ import axiro100cccp from "../assets/images/ax-iro-100-cc-cp-prsh.jpg"
 import axiro130k from "../assets/images/ax-iro-130_k-prsh.jpg"
 import axsirmfspcp from "../assets/images/ax-sir-mfsp-cp-11.jpg"
 import basin202117ins from "../assets/images/Basin_Trap_202117-INS_1.jpg"
-import brw75t from "../assets/images/BRW75T_w2.jpg"
+import brw75t from "../assets/images/BRW75T_w2.jpg" 
 import basomonobloc from "../assets/images/Francis Pegler Haze Monobloc Basin Mixer Tap with Click Clack Waste.jpg"
 import fp4g4010 from "../assets/images/francis.png"
 import inst13010 from "../assets/images/inst13010.jpg"
@@ -25,6 +25,10 @@ import esrtp4 from "../assets/images/ESRTP4-touch-2.png"
 import ubcan52sv from "../assets/images/600_UBCAN52SV.2.png"
 import blancocamia from "../assets/images/26267.jpg"
 import niagara9301brs from "../assets/images/2G210520.jpg"
+import blitzbtzbfc from "../assets/images/product-web-image.jpg"
+import ubind60mt from "../assets/images/600_UBIND60MT-60cm-induction-hob.png"
+import axiro137cp1 from "../assets/images/ax-iro-137-cp-1.webp"
+import mfffa0002 from "../assets/images/6090d089-eb0e-4eb6-965a-ae840100c636.webp"
 
 const products = [
   {
@@ -33,7 +37,7 @@ const products = [
     name: "Towel Ring, Finished In A High-Shine Polished Chrome LEV-181-C/P",
     description: "",
     image: lev181,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287276309237",
   },
 
   {
@@ -42,7 +46,7 @@ const products = [
     name: "LIFE 2 Hole Bath Shower Mixer With Shower Kit LIF-130+K-C/P",
     description: "",
     image: lif130kcp,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287276393319",
   },
 
   {
@@ -51,7 +55,7 @@ const products = [
     name: "Francis Pegler Haze Single Lever Monobloc Basin Mixer 4G4003",
     description: "",
     image: basomonobloc,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287276396774",
   },
 
   {
@@ -60,7 +64,7 @@ const products = [
     name: "Drayton Lp711 7 Day Heating Timeswitch",
     description: "",
     image: draytonImg,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287277616688",
   },
 
   {
@@ -69,7 +73,7 @@ const products = [
     name: "3 Port Motorised Zone Valve 22mm ESZV223LM Central Heating Mid Position Valve",
     description: "",
     image: motorvalve,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287312903407",
   },
 
   {
@@ -77,8 +81,8 @@ const products = [
     slug: "esi-touch-thermostat",
     name: "Esi Touch Twin Channel Programmable Room Thermostat ESRTP4TOUCH",
     description: "",
-    image: "esrtp4",
-    ebayLink: "",
+    image: esrtp4,
+    ebayLink: "https://www.ebay.co.uk/itm/287278398312",
   },
 
   {
@@ -87,7 +91,7 @@ const products = [
     name: 'Instinct 1¼" Round Modern Brass Bottle Trap 202117-INS',
     description: "",
     image: basin202117ins,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287278449283",
   },
 
   {
@@ -96,7 +100,7 @@ const products = [
     name: "Francis Pegler Haze Dual Control Monobloc Sink Mixer Tubular Spout 4G4010",
     description: "",
     image: fp4g4010,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287278458625",
   },
 
   {
@@ -104,8 +108,8 @@ const products = [
     slug: "vado-irlo-basin-mixer",
     name: "VADO Irlo Mono Basin Mixer + Push Waste AX-IRO-100/CC-CP",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: axiro100cccp,
+    ebayLink: "https://www.ebay.co.uk/itm/287278491618",
   },
 
   {
@@ -114,7 +118,7 @@ const products = [
     name: "Salus Programmer Timer Control Water Heating Replaces, White - EP210",
     description: "",
     image: salus210,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287285499764",
   },
 
   {
@@ -122,8 +126,8 @@ const products = [
     slug: "blanco-camia",
     name: "Blanco Camia Chrome Twin Lever No. 525334",
     description: "",
-    image: "blancocamia",
-    ebayLink: "",
+    image: blancocamia,
+    ebayLink: "https://www.ebay.co.uk/itm/287289750691",
   },
 
   {
@@ -131,8 +135,8 @@ const products = [
     slug: "scott-james-mixer-tap",
     name: "Scott & James Twin Lever Mixer Tap – Brushed – ELO0009",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: elo0009,
+    ebayLink: "https://www.ebay.co.uk/itm/287289759082",
   },
 
   {
@@ -140,8 +144,8 @@ const products = [
     slug: "toilet-seat-soft-close",
     name: "MFSSA0002 TOILET SEAT SOFT CLOSE SEAT WRAP",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: mfffa0002,
+    ebayLink: "https://www.ebay.co.uk/itm/287290027963",
   },
 
   {
@@ -149,8 +153,8 @@ const products = [
     slug: "cata-canopy-hood",
     name: "Cata 52cm Canopy Hoods UBCAN52SV.1",
     description: "",
-    image: "ubcan52sv",
-    ebayLink: "",
+    image: ubcan52sv,
+    ebayLink: "https://www.ebay.co.uk/itm/287290040451",
   },
 
   {
@@ -158,8 +162,8 @@ const products = [
     slug: "vado-irlo-bath-filler",
     name: "Vado Irlo Deck Mounted Bath Filler Tap AX-IRO-137-CP",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: axiro137cp1,
+    ebayLink: "https://www.ebay.co.uk/itm/287290168320",
   },
 
   {
@@ -168,7 +172,7 @@ const products = [
     name: "Vado Irlo Deck Mounted Bath/Shower Mixer + Shower Kit AX-IRO-130+K-CP",
     description: "",
     image: axiro130k,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287290194630",
   },
 
   {
@@ -177,7 +181,7 @@ const products = [
     name: "Kinsley Quick Release Soft Close Seat + Cover INST02028",
     description: "",
     image: insto2028,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287290243500",
   },
 
   {
@@ -186,7 +190,7 @@ const products = [
     name: "MANTHORPE WEEP VENT BUFF G950BF B034004 x50",
     description: "",
     image: weepvent,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287291582199",
   },
 
   {
@@ -195,7 +199,7 @@ const products = [
     name: "Meriden 3 Tap Hole Basin Mixer Tap Set Matt Black",
     description: "",
     image: meriden3tap,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287293565878",
   },
 
   {
@@ -203,8 +207,8 @@ const products = [
     slug: "niagara-shower-set",
     name: "Niagara Equate Round Thermostatic Shower Set – Brushed Brass 9301BRS",
     description: "",
-    image: "niagara9301brs",
-    ebayLink: "",
+    image: niagara9301brs,
+    ebayLink: "https://www.ebay.co.uk/itm/287302759522",
   },
 
   {
@@ -212,8 +216,8 @@ const products = [
     slug: "cata-induction-hob",
     name: "UBIND60MT CATA 100 - 60cm 4 Zone Induction Hob",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: ubind60mt,
+    ebayLink: "https://www.ebay.co.uk/itm/287302808023",
   },
 
   {
@@ -222,7 +226,7 @@ const products = [
     name: "MANTHORPE AIRBRICK BLUE-BLACK X20 G930BLB",
     description: "",
     image: airbrickblue,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287303049538",
   },
 
   {
@@ -231,7 +235,7 @@ const products = [
     name: "VADO Multi Function Thermostatic Shower Package - Sirkel - AX-SIR-MFSP-CP",
     description: "",
     image: axsirmfspcp,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287311326269",
   },
 
   {
@@ -239,14 +243,14 @@ const products = [
     slug: "timco-round-wire-nails",
     name: "TIMCO Round Wire Nails - Bright 75 x 3.75mm (QTY: 4 PACKS)",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: brw75t,
+    ebayLink: "https://www.ebay.co.uk/itm/287311389102",
   },
 
   {
     id: 25,
-    slug: "3-port-mechanised-zone-valve",
-    name: "3 Port Mechanised Zone Valve 22mm ESZV223LM",
+    slug: "",
+    name: "",
     description: "",
     image: "",
     ebayLink: "",
@@ -258,7 +262,7 @@ const products = [
     name: "Arco Single Outlet Two Handle Thermostatic Concealed Valve SKU: 6001",
     description: "",
     image: arcovalve,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287312904223",
   },
 
   {
@@ -267,7 +271,7 @@ const products = [
     name: "Eastbrook Haymarket Bath Filler Black No. 79.2012",
     description: "",
     image: eastbrook,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287312905088",
   },
 
   {
@@ -275,8 +279,8 @@ const products = [
     slug: "blitz-bath-filler",
     name: "BLITZ Bath Filler Chrome BTZ BF C",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: blitzbtzbfc,
+    ebayLink: "https://www.ebay.co.uk/itm/287312905997",
   },
 
   {
@@ -284,8 +288,8 @@ const products = [
     slug: "axbridge-bath-mixer",
     name: "Axbridge Bath Mixer Tap with Shower Kit, Cross Handles BC-AXB-131-BN",
     description: "",
-    image: "",
-    ebayLink: "",
+    image: bcaxb131bnprsh,
+    ebayLink: "https://www.ebay.co.uk/itm/287329715011",
   },
 
   {
@@ -294,7 +298,7 @@ const products = [
     name: 'LEVEL Bathroom Towel Shelf with Towel Rail 550mm (22") LEV-185B-C/P',
     description: "",
     image: lev185b,
-    ebayLink: "",
+    ebayLink: "https://www.ebay.co.uk/itm/287329751541",
   },
 ]
 
