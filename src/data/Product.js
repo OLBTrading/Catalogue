@@ -28,7 +28,7 @@ const products = [
     slug: "towel-ring-lev-181-cp",
     name: "Towel Ring, Finished In A High-Shine Polished Chrome LEV-181-C/P",
     description: "",
-    image: "lev181",
+    image: lev181,
     ebayLink: "",
   },
 
@@ -37,7 +37,7 @@ const products = [
     slug: "life-bath-shower-mixer",
     name: "LIFE 2 Hole Bath Shower Mixer With Shower Kit LIF-130+K-C/P",
     description: "",
-    image: "lif130kcp",
+    image: lif130kcp,
     ebayLink: "",
   },
 
@@ -46,7 +46,7 @@ const products = [
     slug: "francis-pegler-haze-basin-mixer",
     name: "Francis Pegler Haze Single Lever Monobloc Basin Mixer 4G4003",
     description: "",
-    image: "basemonobloc",
+    image: basemonobloc,
     ebayLink: "",
   },
 
@@ -55,7 +55,7 @@ const products = [
     slug: "drayton-lp711",
     name: "Drayton Lp711 7 Day Heating Timeswitch",
     description: "",
-    image: "draytonImg",
+    image: draytonImg,
     ebayLink: "",
   },
 
@@ -64,7 +64,7 @@ const products = [
     slug: "3-port-motorised-zone-valve",
     name: "3 Port Motorised Zone Valve 22mm ESZV223LM Central Heating Mid Position Valve",
     description: "",
-    image: "motorvalve",
+    image: motorvalve,
     ebayLink: "",
   },
 
@@ -82,7 +82,7 @@ const products = [
     slug: "instinct-bottle-trap",
     name: 'Instinct 1¼" Round Modern Brass Bottle Trap 202117-INS',
     description: "",
-    image: "basin202117ins",
+    image: basin202117ins,
     ebayLink: "",
   },
 
@@ -91,7 +91,7 @@ const products = [
     slug: "francis-pegler-sink-mixer",
     name: "Francis Pegler Haze Dual Control Monobloc Sink Mixer Tubular Spout 4G4010",
     description: "",
-    image: "fp4g4010",
+    image: fp4g4010,
     ebayLink: "",
   },
 
@@ -109,7 +109,7 @@ const products = [
     slug: "salus-ep210",
     name: "Salus Programmer Timer Control Water Heating Replaces, White - EP210",
     description: "",
-    image: "salus210",
+    image: salus210,
     ebayLink: "",
   },
 
@@ -172,7 +172,7 @@ const products = [
     slug: "kinsley-soft-close-seat",
     name: "Kinsley Quick Release Soft Close Seat + Cover INST02028",
     description: "",
-    image: "insto2028",
+    image: insto2028,
     ebayLink: "",
   },
 
@@ -181,7 +181,7 @@ const products = [
     slug: "manthorpe-weep-vent",
     name: "MANTHORPE WEEP VENT BUFF G950BF B034004 x50",
     description: "",
-    image: "weepvent",
+    image: weepvent,
     ebayLink: "",
   },
 
@@ -190,7 +190,7 @@ const products = [
     slug: "meriden-basin-mixer",
     name: "Meriden 3 Tap Hole Basin Mixer Tap Set Matt Black",
     description: "",
-    image: "meriden3tap",
+    image: meriden3tap,
     ebayLink: "",
   },
 
@@ -217,7 +217,7 @@ const products = [
     slug: "manthorpe-airbrick",
     name: "MANTHORPE AIRBRICK BLUE-BLACK X20 G930BLB",
     description: "",
-    image: "airbrickblue",
+    image: airbrickblue,
     ebayLink: "",
   },
 
@@ -226,7 +226,7 @@ const products = [
     slug: "vado-sirkel-shower-package",
     name: "VADO Multi Function Thermostatic Shower Package - Sirkel - AX-SIR-MFSP-CP",
     description: "",
-    image: "axsirmfspcp",
+    image: axsirmfspcp,
     ebayLink: "",
   },
 
@@ -253,7 +253,7 @@ const products = [
     slug: "arco-thermostatic-valve",
     name: "Arco Single Outlet Two Handle Thermostatic Concealed Valve SKU: 6001",
     description: "",
-    image: "arcovalve",
+    image: arcovalve,
     ebayLink: "",
   },
 
@@ -262,7 +262,7 @@ const products = [
     slug: "eastbrook-haymarket-bath-filler",
     name: "Eastbrook Haymarket Bath Filler Black No. 79.2012",
     description: "",
-    image: "eastbrook",
+    image: eastbrook,
     ebayLink: "",
   },
 
@@ -289,7 +289,7 @@ const products = [
     slug: "level-towel-shelf",
     name: 'LEVEL Bathroom Towel Shelf with Towel Rail 550mm (22") LEV-185B-C/P',
     description: "",
-    image: "lev185b",
+    image: lev185b,
     ebayLink: "",
   },
 ]
