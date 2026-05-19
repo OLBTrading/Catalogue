@@ -46,7 +46,7 @@ const products = [
     slug: "francis-pegler-haze-basin-mixer",
     name: "Francis Pegler Haze Single Lever Monobloc Basin Mixer 4G4003",
     description: "",
-    image: basemonobloc,
+    image: basomonobloc,
     ebayLink: "",
   },
 
