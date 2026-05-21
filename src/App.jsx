@@ -2,6 +2,7 @@ import { Routes, Route, Link, useParams } from "react-router-dom"
 
 import products from "./data/Product"
 import Navbar from "./components/Navbar"
+import Footer from "./components/Footer"
 
 function Home() {
   return (
@@ -131,6 +132,8 @@ function App() {
           element={<ProductPage />}
         />
       </Routes>
+      
+      <Footer />
     </>
   )
 }

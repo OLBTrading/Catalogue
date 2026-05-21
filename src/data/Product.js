@@ -35,7 +35,8 @@ const products = [
     id: 1,
     slug: "towel-ring-lev-181-cp",
     name: "Towel Ring, Finished In A High-Shine Polished Chrome LEV-181-C/P",
-    description: "",
+    description:
+      "Contemporary polished chrome towel ring designed to provide stylish and practical towel storage for modern bathrooms.",
     image: lev181,
     ebayLink: "https://www.ebay.co.uk/itm/287276309237",
   },
@@ -44,7 +45,8 @@ const products = [
     id: 2,
     slug: "life-bath-shower-mixer",
     name: "LIFE 2 Hole Bath Shower Mixer With Shower Kit LIF-130+K-C/P",
-    description: "",
+    description:
+      "Modern bath shower mixer with matching shower kit, combining sleek chrome styling with smooth water flow control.",
     image: lif130kcp,
     ebayLink: "https://www.ebay.co.uk/itm/287276393319",
   },
@@ -53,7 +55,8 @@ const products = [
     id: 3,
     slug: "francis-pegler-haze-basin-mixer",
     name: "Francis Pegler Haze Single Lever Monobloc Basin Mixer 4G4003",
-    description: "",
+    description:
+      "Elegant single lever basin mixer tap with smooth operation, contemporary styling, and durable chrome construction.",
     image: basomonobloc,
     ebayLink: "https://www.ebay.co.uk/itm/287276396774",
   },
@@ -62,25 +65,28 @@ const products = [
     id: 4,
     slug: "drayton-lp711",
     name: "Drayton Lp711 7 Day Heating Timeswitch",
-    description: "",
+    description:
+      "Advanced 7-day heating programmer featuring flexible scheduling, boost functionality, and simple user controls.",
     image: draytonImg,
     ebayLink: "https://www.ebay.co.uk/itm/287277616688",
   },
 
   {
     id: 5,
-    slug: "3-port-motorised-zone-valve",
-    name: "3 Port Motorised Zone Valve 22mm ESZV223LM Central Heating Mid Position Valve",
-    description: "",
-    image: motorvalve,
-    ebayLink: "https://www.ebay.co.uk/itm/287312903407",
+    slug: "",
+    name: "",
+    description:
+      "",
+    image: "",
+    ebayLink: "",
   },
 
   {
     id: 6,
     slug: "esi-touch-thermostat",
     name: "Esi Touch Twin Channel Programmable Room Thermostat ESRTP4TOUCH",
-    description: "",
+    description:
+      "Touchscreen programmable thermostat offering accurate temperature management and energy-efficient heating control.",
     image: esrtp4,
     ebayLink: "https://www.ebay.co.uk/itm/287278398312",
   },
@@ -89,7 +95,8 @@ const products = [
     id: 7,
     slug: "instinct-bottle-trap",
     name: 'Instinct 1¼" Round Modern Brass Bottle Trap 202117-INS',
-    description: "",
+    description:
+      "Premium round bottle trap with durable brass construction and a stylish modern finish for exposed basin installations.",
     image: basin202117ins,
     ebayLink: "https://www.ebay.co.uk/itm/287278449283",
   },
@@ -98,7 +105,8 @@ const products = [
     id: 8,
     slug: "francis-pegler-sink-mixer",
     name: "Francis Pegler Haze Dual Control Monobloc Sink Mixer Tubular Spout 4G4010",
-    description: "",
+    description:
+      "Contemporary dual control sink mixer tap featuring a sleek tubular spout and high-quality chrome finish.",
     image: fp4g4010,
     ebayLink: "https://www.ebay.co.uk/itm/287278458625",
   },
@@ -107,7 +115,8 @@ const products = [
     id: 9,
     slug: "vado-irlo-basin-mixer",
     name: "VADO Irlo Mono Basin Mixer + Push Waste AX-IRO-100/CC-CP",
-    description: "",
+    description:
+      "Minimalist mono basin mixer supplied with matching push waste and polished chrome detailing.",
     image: axiro100cccp,
     ebayLink: "https://www.ebay.co.uk/itm/287278491618",
   },
@@ -116,7 +125,8 @@ const products = [
     id: 10,
     slug: "salus-ep210",
     name: "Salus Programmer Timer Control Water Heating Replaces, White - EP210",
-    description: "",
+    description:
+      "Twin-channel digital programmer designed for efficient heating and hot water scheduling with intuitive controls.",
     image: salus210,
     ebayLink: "https://www.ebay.co.uk/itm/287285499764",
   },
@@ -125,7 +135,8 @@ const products = [
     id: 11,
     slug: "blanco-camia",
     name: "Blanco Camia Chrome Twin Lever No. 525334",
-    description: "",
+    description:
+      "Premium chrome twin lever kitchen mixer tap combining elegant design with practical everyday functionality.",
     image: blancocamia,
     ebayLink: "https://www.ebay.co.uk/itm/287289750691",
   },
@@ -134,7 +145,8 @@ const products = [
     id: 12,
     slug: "scott-james-mixer-tap",
     name: "Scott & James Twin Lever Mixer Tap – Brushed – ELO0009",
-    description: "",
+    description:
+      "Brushed finish twin lever mixer tap designed to add timeless style and durability to modern kitchens.",
     image: elo0009,
     ebayLink: "https://www.ebay.co.uk/itm/287289759082",
   },
@@ -143,7 +155,8 @@ const products = [
     id: 13,
     slug: "toilet-seat-soft-close",
     name: "MFSSA0002 TOILET SEAT SOFT CLOSE SEAT WRAP",
-    description: "",
+    description:
+      "Soft-close toilet seat featuring durable construction and quick-release functionality for easy cleaning.",
     image: mfffa0002,
     ebayLink: "https://www.ebay.co.uk/itm/287290027963",
   },
@@ -152,7 +165,8 @@ const products = [
     id: 14,
     slug: "cata-canopy-hood",
     name: "Cata 52cm Canopy Hoods UBCAN52SV.1",
-    description: "",
+    description:
+      "Integrated canopy cooker hood designed for efficient kitchen extraction with a discreet built-in appearance.",
     image: ubcan52sv,
     ebayLink: "https://www.ebay.co.uk/itm/287290040451",
   },
@@ -161,7 +175,8 @@ const products = [
     id: 15,
     slug: "vado-irlo-bath-filler",
     name: "Vado Irlo Deck Mounted Bath Filler Tap AX-IRO-137-CP",
-    description: "",
+    description:
+      "Contemporary deck mounted bath filler with sleek lines and durable chrome finish for modern bathrooms.",
     image: axiro137cp1,
     ebayLink: "https://www.ebay.co.uk/itm/287290168320",
   },
@@ -170,7 +185,8 @@ const products = [
     id: 16,
     slug: "vado-irlo-bath-shower-mixer",
     name: "Vado Irlo Deck Mounted Bath/Shower Mixer + Shower Kit AX-IRO-130+K-CP",
-    description: "",
+    description:
+      "Luxury bath shower mixer complete with matching shower kit and elegant polished chrome styling.",
     image: axiro130k,
     ebayLink: "https://www.ebay.co.uk/itm/287290194630",
   },
@@ -179,7 +195,8 @@ const products = [
     id: 17,
     slug: "kinsley-soft-close-seat",
     name: "Kinsley Quick Release Soft Close Seat + Cover INST02028",
-    description: "",
+    description:
+      "Modern quick-release toilet seat with soft-close functionality and durable everyday performance.",
     image: insto2028,
     ebayLink: "https://www.ebay.co.uk/itm/287290243500",
   },
@@ -188,7 +205,8 @@ const products = [
     id: 18,
     slug: "manthorpe-weep-vent",
     name: "MANTHORPE WEEP VENT BUFF G950BF B034004 x50",
-    description: "",
+    description:
+      "High-quality buff weep vents designed to provide discreet cavity wall drainage and ventilation.",
     image: weepvent,
     ebayLink: "https://www.ebay.co.uk/itm/287291582199",
   },
@@ -197,7 +215,8 @@ const products = [
     id: 19,
     slug: "meriden-basin-mixer",
     name: "Meriden 3 Tap Hole Basin Mixer Tap Set Matt Black",
-    description: "",
+    description:
+      "Stylish matt black basin mixer tap set featuring contemporary design and premium build quality.",
     image: meriden3tap,
     ebayLink: "https://www.ebay.co.uk/itm/287293565878",
   },
@@ -206,7 +225,8 @@ const products = [
     id: 20,
     slug: "niagara-shower-set",
     name: "Niagara Equate Round Thermostatic Shower Set – Brushed Brass 9301BRS",
-    description: "",
+    description:
+      "Thermostatic shower set finished in brushed brass with modern round styling and precise temperature control.",
     image: niagara9301brs,
     ebayLink: "https://www.ebay.co.uk/itm/287302759522",
   },
@@ -215,7 +235,8 @@ const products = [
     id: 21,
     slug: "cata-induction-hob",
     name: "UBIND60MT CATA 100 - 60cm 4 Zone Induction Hob",
-    description: "",
+    description:
+      "60cm induction hob with four cooking zones, touch controls, and fast responsive heating technology.",
     image: ubind60mt,
     ebayLink: "https://www.ebay.co.uk/itm/287302808023",
   },
@@ -224,7 +245,8 @@ const products = [
     id: 22,
     slug: "manthorpe-airbrick",
     name: "MANTHORPE AIRBRICK BLUE-BLACK X20 G930BLB",
-    description: "",
+    description:
+      "Durable airbrick designed to provide effective underfloor and cavity wall ventilation.",
     image: airbrickblue,
     ebayLink: "https://www.ebay.co.uk/itm/287303049538",
   },
@@ -233,7 +255,8 @@ const products = [
     id: 23,
     slug: "vado-sirkel-shower-package",
     name: "VADO Multi Function Thermostatic Shower Package - Sirkel - AX-SIR-MFSP-CP",
-    description: "",
+    description:
+      "Premium thermostatic shower package featuring multi-function controls and sleek chrome styling.",
     image: axsirmfspcp,
     ebayLink: "https://www.ebay.co.uk/itm/287311326269",
   },
@@ -242,25 +265,28 @@ const products = [
     id: 24,
     slug: "timco-round-wire-nails",
     name: "TIMCO Round Wire Nails - Bright 75 x 3.75mm (QTY: 4 PACKS)",
-    description: "",
+    description:
+      "Bright round wire nails suitable for general construction, woodworking, and domestic applications.",
     image: brw75t,
     ebayLink: "https://www.ebay.co.uk/itm/287311389102",
   },
 
   {
     id: 25,
-    slug: "",
-    name: "",
-    description: "",
-    image: "",
-    ebayLink: "",
+    slug: "3-port-mechanised-zone-valve",
+    name: "3 Port Mechanised Zone Valve 22mm ESZV223LM",
+    description:
+      "Efficient 3-port motorised valve designed for domestic heating and hot water control systems.",
+    image: motorvalve,
+    ebayLink: "https://www.ebay.co.uk/itm/287312903407",
   },
 
   {
     id: 26,
     slug: "arco-thermostatic-valve",
     name: "Arco Single Outlet Two Handle Thermostatic Concealed Valve SKU: 6001",
-    description: "",
+    description:
+      "Concealed thermostatic shower valve with dual handle controls and modern minimalist styling.",
     image: arcovalve,
     ebayLink: "https://www.ebay.co.uk/itm/287312904223",
   },
@@ -269,7 +295,8 @@ const products = [
     id: 27,
     slug: "eastbrook-haymarket-bath-filler",
     name: "Eastbrook Haymarket Bath Filler Black No. 79.2012",
-    description: "",
+    description:
+      "Matt black bath filler tap featuring bold contemporary styling and durable solid brass construction.",
     image: eastbrook,
     ebayLink: "https://www.ebay.co.uk/itm/287312905088",
   },
@@ -278,7 +305,8 @@ const products = [
     id: 28,
     slug: "blitz-bath-filler",
     name: "BLITZ Bath Filler Chrome BTZ BF C",
-    description: "",
+    description:
+      "Modern chrome bath filler tap designed for smooth water flow and stylish bathroom installations.",
     image: blitzbtzbfc,
     ebayLink: "https://www.ebay.co.uk/itm/287312905997",
   },
@@ -287,7 +315,8 @@ const products = [
     id: 29,
     slug: "axbridge-bath-mixer",
     name: "Axbridge Bath Mixer Tap with Shower Kit, Cross Handles BC-AXB-131-BN",
-    description: "",
+    description:
+      "Traditional bath mixer tap with elegant cross handles and matching shower attachment.",
     image: bcaxb131bnprsh,
     ebayLink: "https://www.ebay.co.uk/itm/287329715011",
   },
@@ -296,11 +325,11 @@ const products = [
     id: 30,
     slug: "level-towel-shelf",
     name: 'LEVEL Bathroom Towel Shelf with Towel Rail 550mm (22") LEV-185B-C/P',
-    description: "",
+    description:
+      "Modern chrome towel shelf with integrated rail for practical and stylish bathroom storage.",
     image: lev185b,
     ebayLink: "https://www.ebay.co.uk/itm/287329751541",
   },
 ]
-
 
 export default products
