@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import logo from "../assets/images/olb.png"
+import logo from "../assets/images/olbnew2.png"
 
 function Navbar() {
   return (

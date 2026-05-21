@@ -71,15 +71,15 @@ const products = [
     ebayLink: "https://www.ebay.co.uk/itm/287277616688",
   },
 
-  {
-    id: 5,
-    slug: "",
-    name: "",
-    description:
-      "",
-    image: "",
-    ebayLink: "",
-  },
+  // {
+  //   id: 5,
+  //   slug: "",
+  //   name: "",
+  //   description:
+  //     "",
+  //   image: "",
+  //   ebayLink: "",
+  // },
 
   {
     id: 6,
