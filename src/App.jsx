@@ -3,6 +3,7 @@ import { Routes, Route, Link, useParams } from "react-router-dom"
 import products from "./data/Product"
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
+import ScrollToTop from "./components/ScrollToTop"
 
 function Home() {
   return (
@@ -123,7 +124,7 @@ function App() {
   return (
     <>
       <Navbar />
-
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
 
@@ -132,7 +133,7 @@ function App() {
           element={<ProductPage />}
         />
       </Routes>
-      
+
       <Footer />
     </>
   )
