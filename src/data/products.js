@@ -121,15 +121,15 @@ const products = [
     ebayLink: "https://www.ebay.co.uk/itm/287278491618",
   },
 
-  {
-    id: 10,
-    slug: "salus-ep210",
-    name: "Salus Programmer Timer Control Water Heating Replaces, White - EP210",
-    description:
-      "Twin-channel digital programmer designed for efficient heating and hot water scheduling with intuitive controls.",
-    image: salus210,
-    ebayLink: "https://www.ebay.co.uk/itm/287285499764",
-  },
+  // {
+  //   id: 10,
+  //   slug: "salus-ep210",
+  //   name: "Salus Programmer Timer Control Water Heating Replaces, White - EP210",
+  //   description:
+  //     "Twin-channel digital programmer designed for efficient heating and hot water scheduling with intuitive controls.",
+  //   image: salus210,
+  //   ebayLink: "https://www.ebay.co.uk/itm/287285499764",
+  // },
 
   {
     id: 11,
