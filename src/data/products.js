@@ -29,6 +29,9 @@ import blitzbtzbfc from "../assets/images/product-web-image.jpg"
 import ubind60mt from "../assets/images/600_UBIND60MT-60cm-induction-hob.png"
 import axiro137cp1 from "../assets/images/ax-iro-137-cp-1.webp"
 import mfffa0002 from "../assets/images/6090d089-eb0e-4eb6-965a-ae840100c636.webp"
+import insde002 from "..assets/images/insde002two.png"
+import dcctnk from "..assets/images/dcctnk.webp"
+import eastbrook360029 from "../assets/images/36.0029_0.jpg"
 
 const products = [
   {
@@ -329,6 +332,30 @@ const products = [
       "Modern chrome towel shelf with integrated rail for practical and stylish bathroom storage.",
     image: lev185b,
     ebayLink: "https://www.ebay.co.uk/itm/287329751541",
+  },
+  {
+    id: 31,
+    slug: insde002,
+    name: "Instinct Della CC Cistern Inc Fittings White INSDE002",
+    description: "",
+    image: insde002,
+    ebayLink: "https://www.ebay.co.uk/itm/287358965157",
+  },
+  {
+    id: 32,
+    slug: "36.0029",
+    name: "Cavone 50CM 2 Drawer Basin Vanity Unit - High gloss white",
+    description: "",
+    image: eastbrook360029,
+    ebayLink: "https://www.ebay.co.uk/itm/287361576828",
+  },
+  {
+    id: 33,
+    slug: "DCCTNK",
+    name: "DEBUT Close Coupled Cistern DCCTNK",
+    description: "The DEBUT Close Coupled Cistern DCCTNK is a modern, white toilet cistern designed for bathrooms. This close coupled cistern comes from the DEBUT brand. Its sleek and stylish design adds a contemporary touch to any bathroom while providing efficient and reliable toilet functionality. Perfect for those looking to upgrade or replace their existing toilet system with a high-quality, modern option.",
+    image: dcctnk,
+    ebayLink: "https://www.ebay.co.uk/itm/287360885583",
   },
 ]
 
