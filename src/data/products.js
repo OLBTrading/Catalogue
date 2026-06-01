@@ -29,8 +29,8 @@ import blitzbtzbfc from "../assets/images/product-web-image.jpg"
 import ubind60mt from "../assets/images/600_UBIND60MT-60cm-induction-hob.png"
 import axiro137cp1 from "../assets/images/ax-iro-137-cp-1.webp"
 import mfffa0002 from "../assets/images/6090d089-eb0e-4eb6-965a-ae840100c636.webp"
-import insde002 from "..assets/images/insde002two.png"
-import dcctnk from "..assets/images/dcctnk.webp"
+import insde002 from "../assets/images/insde002two.png"
+import dcctnk from "../assets/images/dcctnk.webp"
 import eastbrook360029 from "../assets/images/36.0029_0.jpg"
 
 const products = [
