@@ -32,6 +32,14 @@ import mfffa0002 from "../assets/images/6090d089-eb0e-4eb6-965a-ae840100c636.web
 import insde002 from "../assets/images/insde002two.png"
 import dcctnk from "../assets/images/dcctnk.webp"
 import eastbrook360029 from "../assets/images/36.0029_0.jpg"
+import C2231 from "../assets/images/C2231.jpg"
+import BXC611 from "../assets/images/BXC611a-1536x1536.jpg"
+import CM123 from "../assets/images/CM123-01.jpg"
+import FBUF60E from "../assets/images/600_FBUF60E_1.png"
+import FZBU60E from "../assets/images/600_FZBU60E_1.png"
+import UBO653BK_1 from "../assets/images/600_UBO653BK_1.png"
+import KU9202HG0G from "../assets/images/KU9202HG0G_STP_def.webp"
+import D5855X1GB from "../assets/images/D5855X1GB_CO_1156x742__41962.jpg"
 
 const products = [
   {
@@ -357,6 +365,77 @@ const products = [
     image: dcctnk,
     ebayLink: "https://www.ebay.co.uk/itm/287360885583",
   },
+{
+  id: 34,
+  slug: "BXC611",
+  name: "60cm Wall Chimney Hood Stainless Steel BXC611",
+  description: "This stainless steel chimney-style extractor makes a stylish statement piece. Simple, powerful, and with modern good looks.",
+  image: BXC611,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 35,
+  slug: "CM123",
+  name: "Built-In Microwave & Grill Stainless Steel CM123",
+  description: "The Caple CM123 Built-In Microwave & Grill combines sophisticated design with advanced functionality, perfect for modern kitchens. This 25-litre capacity microwave features a sleek stainless steel finish with fingerprint-resistant technology, making it both practical and stylish. With 900W of microwave power and a 1000W grill, it offers versatile cooking options for various culinary needs.",
+  image: CM123,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 36,
+  slug: "C2231",
+  name: "60cm Electric Single Oven Black & Stainless Steel C2231",
+  description: "This Caple built-in electric oven, in Stainless steel, is perfectly suited for your kitchen. The C2231 is a Fan oven, with a useable capacity of 67 litres for cooking meals and comes equipped with 5 cooking functions. With an energy rating of A this model is efficient and keeps running costs low. When it comes to installation of this oven, it has dimensions of 59.5cm (width) x 59.7cm (height) x 54.6cm (depth).",
+  image: C2231,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 37,
+  slug: "UBO653BK",
+  name: "CATA 300 - 60cm 65L Multifunction Single Oven Black UBO653BK",
+  description: "This electric oven finished in sleek black glass is a stylish and versatile choice for any modern kitchen.",
+  image: UBO653BK_1,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 38,
+  slug: "KU9202HG0G",
+  name: "NEFFN70 KU9202HF0G Integrated Wine Cooler",
+  description: "This integrated NEFF wine cooler will be a great showpiece for your home. It can hold up to 21 bottles of your favourite brands – you won’t need to nip to the shops for extras in a hurry. And you can adjust the temperature from 5 to 20 degrees to keep your collection in peak condition. Whether a Cabernet Sauvignon, Merlot or Pinot Blanc, every glass will taste delicious. Fancy a night cap? The LED lighting illuminates all the shelves, so you’ll never have trouble picking out a brand. Placing this model where you want is a doddle too, because the door can be adjusted to open from the left or right. ",
+  image: KU9202HG0G,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 39,
+  slug: "FZBU60E",
+  name: "CATA 100 - Undercounter Integrated Freezer FZBU60E",
+  description: "This seamless and uncluttered look. The 107 litre capacity provides ample space for storing frozen essentials while maximising available kitchen space.",
+  image: FZBU60E,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 40,
+  slug: "FBUF60E",
+  name: "CATA 100 - Undercounter Integrated Fridge FBUF60E",
+  description: "This integrated under counter fridge provides a compact yet practical storage solution, making it an excellent choice for modern kitchens. With a clean white finish, it fits neatly behind a kitchen cabinet door for a seamless and unobtrusive look.",
+  image: FBUF60E,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
+
+{
+  id: 41,
+  slug: "D5855X1GB",
+  name: "Neff N30 D5855X1GB 75cm Canopy Hood - Metallic Silver",
+  description: "This Neff N30 D5855X1GB Canopy Hood is the ultimate choice for a minimalist kitchen interior with specific compact spaces allotted for everything and the best way to keep them clean and odour-free.",
+  image: D5855X1GB,
+  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+},
 ]
 
 export default products
