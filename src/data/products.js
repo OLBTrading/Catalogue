@@ -40,6 +40,7 @@ import FZBU60E from "../assets/images/600_FZBU60E_1.png"
 import UBO653BK_1 from "../assets/images/600_UBO653BK_1.png"
 import KU9202HG0G from "../assets/images/KU9202HG0G_STP_def.webp"
 import D5855X1GB from "../assets/images/D5855X1GB_CO_1156x742__41962.jpg"
+import v0010020391 from "../assets/images/GPID_1000273717_IMG_00.jpeg"
 
 const products = [
   {
@@ -436,6 +437,15 @@ const products = [
   image: D5855X1GB,
   ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
 },
+{
+  id: 42,
+  slug: "0010020391",
+  name: "Valliant ecoFit Pure 835 35kW Combi Gas Boiler ErP 0010020391",
+  description: "The Vaillant ecoFIT pure 35 kW Combination Boiler range has high quality components including an aluminium high efficiency heat exchanger, which makes the boiler not only light to install but also easy to maintain.",
+  image: v0010020391,
+  ebayLink: "https://www.ebay.co.uk/itm/287375918934",
+},
+
 ]
 
 export default products
