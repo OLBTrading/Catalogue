@@ -41,7 +41,10 @@ import UBO653BK_1 from "../assets/images/600_UBO653BK_1.png"
 import KU9202HG0G from "../assets/images/KU9202HG0G_STP_def.webp"
 import D5855X1GB from "../assets/images/D5855X1GB_CO_1156x742__41962.jpg"
 import v0010020391 from "../assets/images/GPID_1000273717_IMG_00.jpeg"
-
+import UBIND30FLC from "../assets/images/600_UBIND30FLC_1.png"
+import ESRTP4plus from "../assets/images/esi-controls-wired-programmable-room-thermostat-esrtp4-p10984-91989_image.jpg"
+import RFC045 from "../assets/images/RFC045.webp"
+import INSAN3037 from "../assets/images/Andros_INSAN3037_Image2.jpg"
 const products = [
   {
     id: 1,
@@ -445,7 +448,38 @@ const products = [
   image: v0010020391,
   ebayLink: "https://www.ebay.co.uk/itm/287375918934",
 },
-
+{
+  id: 43,
+  slug: "UBIND30FLC",
+  name: "UBIND30FLC CATA 300 - 30cm 2 Zone Induction Hob Black",
+  description: "",
+  image: UBIND30FLC,
+  ebayLink: "https://www.ebay.co.uk/itm/287368000415",
+},
+{
+  id: 44,
+  slug: "RFC045",
+  name: "Reflect Single Door Cabinet RFC045",
+  description: "",
+  image: RFC045,
+  ebayLink: "https://www.ebay.co.uk/itm/287369320420",
+},
+{
+  id: 45,
+  slug: "ESRTP4+",
+  name: "ESI Programmable Room Stat ESRTP4+",
+  description: "Our ESRTP4+ is a hard wired programmable room thermostat which is simple and quick to install & easy to use. The control features OpenTherm which automatically reduces the flow temperature of your boiler helping you save up to 15% on your gas use, significantly lowering bills.",
+  image: ESRTP4plus,
+  ebayLink: "https://www.ebay.co.uk/itm/287369433523",
+},
+{
+  id: 46,
+  slug: "INSAN3037",
+  name: "Instinct INSAN3037 Andros Square Twin Outlet Thermostatic Bar Shower Mixer",
+  description: "",
+  image: INSAN3037,
+  ebayLink: "https://www.ebay.co.uk/itm/287369329209",
+},
 ]
 
 export default products
