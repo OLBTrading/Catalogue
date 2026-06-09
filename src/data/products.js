@@ -24,7 +24,7 @@ import lev185b from "../assets/images/lev-185b-prsh.jpg"
 import esrtp4 from "../assets/images/ESRTP4-Touch-2.png"
 import ubcan52sv from "../assets/images/600_UBCAN52SV.2.png"
 import blancocamia from "../assets/images/26267.jpg"
-import niagara9301brs from "../assets/images/2G210520.jpg"
+import niagara9301brs from "../assets/images/9301BRS_1_Supersize.png"
 import blitzbtzbfc from "../assets/images/product-web-image.jpg"
 import ubind60mt from "../assets/images/600_UBIND60MT-60cm-induction-hob.png"
 import axiro137cp1 from "../assets/images/ax-iro-137-cp-1.webp"
@@ -45,6 +45,10 @@ import UBIND30FLC from "../assets/images/600_UBIND30FLC_1.png"
 import ESRTP4plus from "../assets/images/esi-controls-wired-programmable-room-thermostat-esrtp4-p10984-91989_image.jpg"
 import RFC045 from "../assets/images/RFC045.webp"
 import INSAN3037 from "../assets/images/Andros_INSAN3037_Image2.jpg"
+import HENRAD313044 from "../assets/images/GPID_5000185424_00.jpg"
+import HENRAD313018 from "../assets/images/Henrad-Column_LF.jpg"
+import HENRAD313049 from "../assets/images/henrad-4-column-radiator-750mm-x-440mm-l040018-1__71337.jpg"
+
 const products = [
   {
     id: 1,
@@ -126,15 +130,15 @@ const products = [
     ebayLink: "https://www.ebay.co.uk/itm/287278458625",
   },
 
-  {
-    id: 9,
-    slug: "vado-irlo-basin-mixer",
-    name: "VADO Irlo Mono Basin Mixer + Push Waste AX-IRO-100/CC-CP",
-    description:
-      "Minimalist mono basin mixer supplied with matching push waste and polished chrome detailing.",
-    image: axiro100cccp,
-    ebayLink: "https://www.ebay.co.uk/itm/287278491618",
-  },
+  // {
+  //   id: 9,
+  //   slug: "vado-irlo-basin-mixer",
+  //   name: "VADO Irlo Mono Basin Mixer + Push Waste AX-IRO-100/CC-CP",
+  //   description:
+  //     "Minimalist mono basin mixer supplied with matching push waste and polished chrome detailing.",
+  //   image: axiro100cccp,
+  //   ebayLink: "https://www.ebay.co.uk/itm/287278491618",
+  // },
 
   // {
   //   id: 10,
@@ -146,15 +150,15 @@ const products = [
   //   ebayLink: "https://www.ebay.co.uk/itm/287285499764",
   // },
 
-  {
-    id: 11,
-    slug: "blanco-camia",
-    name: "Blanco Camia Chrome Twin Lever No. 525334",
-    description:
-      "Premium chrome twin lever kitchen mixer tap combining elegant design with practical everyday functionality.",
-    image: blancocamia,
-    ebayLink: "https://www.ebay.co.uk/itm/287289750691",
-  },
+  // {
+  //   id: 11,
+  //   slug: "blanco-camia",
+  //   name: "Blanco Camia Chrome Twin Lever No. 525334",
+  //   description:
+  //     "Premium chrome twin lever kitchen mixer tap combining elegant design with practical everyday functionality.",
+  //   image: blancocamia,
+  //   ebayLink: "https://www.ebay.co.uk/itm/287289750691",
+  // },
 
   {
     id: 12,
@@ -464,20 +468,44 @@ const products = [
   image: RFC045,
   ebayLink: "https://www.ebay.co.uk/itm/287369320420",
 },
-{
-  id: 45,
-  slug: "ESRTP4+",
-  name: "ESI Programmable Room Stat ESRTP4+",
-  description: "Our ESRTP4+ is a hard wired programmable room thermostat which is simple and quick to install & easy to use. The control features OpenTherm which automatically reduces the flow temperature of your boiler helping you save up to 15% on your gas use, significantly lowering bills.",
-  image: ESRTP4plus,
-  ebayLink: "https://www.ebay.co.uk/itm/287369433523",
-},
+// {
+//   id: 45,
+//   slug: "ESRTP4+",
+//   name: "ESI Programmable Room Stat ESRTP4+",
+//   description: "Our ESRTP4+ is a hard wired programmable room thermostat which is simple and quick to install & easy to use. The control features OpenTherm which automatically reduces the flow temperature of your boiler helping you save up to 15% on your gas use, significantly lowering bills.",
+//   image: ESRTP4plus,
+//   ebayLink: "https://www.ebay.co.uk/itm/287369433523",
+//  },
 {
   id: 46,
   slug: "INSAN3037",
   name: "Instinct INSAN3037 Andros Square Twin Outlet Thermostatic Bar Shower Mixer",
   description: "",
   image: INSAN3037,
+  ebayLink: "https://www.ebay.co.uk/itm/287369329209",
+},
+{
+  id: 47,
+  slug: "HENRAD313044",
+  name: "Henrad by Stelrad White 3 Column Horizontal Designer Radiator - 750 x 854mm",
+  description: "Henrad by Stelrad White 3 Column Horizontal Designer Radiator brings innovation and reliability with high heat output, performance and design. By offering a modern alternative to a conventional panel radiator, and will enhance both contemporary and traditional settings.",
+  image: HENRAD313044,
+  ebayLink: "https://www.ebay.co.uk/itm/287369329209",
+},
+{
+  id: 48,
+  slug: "HENRAD313018",
+  name: "HENRAD 3 COLUMN White Radiator 500mm x 854mm",
+  description: "",
+  image: HENRAD313018,
+  ebayLink: "https://www.ebay.co.uk/itm/287369329209",
+},
+{
+  id: 49,
+  slug: "HENRAD313049",
+  name: "Henrad 4 Column Radiator, 750mm x 440mm",
+  description: "The Henrad Column 4 radiator (product code 313049) is a white, 750mm high and 440mm long radiator with a heat output of 900W (3069 BTU). It weighs 19.8kg and has a depth of 148mm",
+  image: HENRAD313049,
   ebayLink: "https://www.ebay.co.uk/itm/287369329209",
 },
 ]

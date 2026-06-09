@@ -38,7 +38,7 @@ function ProductPage() {
           </p>
 
           <a
-            href={product.ebayLink}
+            href="https://www.ebay.co.uk/str/olbtrading"
             target="_blank"
             rel="noreferrer"
             className="bg-black text-white px-8 py-4 rounded-2xl text-center text-lg hover:bg-gray-800 transition"

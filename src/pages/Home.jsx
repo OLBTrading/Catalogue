@@ -26,13 +26,9 @@ function Home() {
 
             <div className="flex flex-wrap gap-4">
 
-              <button className="bg-black text-white px-8 py-4 rounded-2xl text-lg hover:bg-gray-800 transition">
+              <a href="/products" className="bg-black text-white px-8 py-4 rounded-2xl text-lg hover:bg-gray-800 transition">
                 Browse Products
-              </button>
-
-              <button className="border border-gray-300 px-8 py-4 rounded-2xl text-lg hover:bg-gray-100 transition">
-                Learn More
-              </button>
+              </a>
 
             </div>
 
