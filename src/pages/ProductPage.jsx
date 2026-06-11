@@ -16,11 +16,11 @@ function ProductPage() {
     <div className="min-h-screen bg-gray-100 p-10">
       <div className="max-w-6xl mx-auto bg-white rounded-3xl shadow-lg overflow-hidden grid md:grid-cols-2">
 
-        <div>
+        <div className="bg-gray-50 flex items-center justify-center p-8">
           <img
             src={product.image}
             alt={product.name}
-            className="w-full h-full object-cover"
+            className="max-h-[500px] max-w-full object-contain"
           />
         </div>
 
@@ -36,6 +36,16 @@ function ProductPage() {
           <p className="text-gray-600 text-lg mb-8">
             {product.description}
           </p>
+
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold text-gray-900 mb-2">
+              Product Specifications
+            </h3>
+
+            <p className="text-gray-600">
+              Full technical specifications, dimensions, compatibility details, and additional product information can be found on our eBay listing.
+            </p>
+          </div>
 
           <a
             href="https://www.ebay.co.uk/str/olbtrading"

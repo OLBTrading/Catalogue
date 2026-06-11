@@ -38,7 +38,7 @@ import CM123 from "../assets/images/CM123-01.jpg"
 import FBUF60E from "../assets/images/600_FBUF60E_1.png"
 import FZBU60E from "../assets/images/600_FZBU60E_1.png"
 import UBO653BK_1 from "../assets/images/600_UBO653BK_1.png"
-import KU9202HG0G from "../assets/images/KU9202HG0G_STP_def.webp"
+import KU9202HG0Gtwo from "../assets/images/KU9202HG0G_STP_def2two.jpg"
 import D5855X1GB from "../assets/images/D5855X1GB_CO_1156x742__41962.jpg"
 import v0010020391 from "../assets/images/GPID_1000273717_IMG_00.jpeg"
 import UBIND30FLC from "../assets/images/600_UBIND30FLC_1.png"
@@ -414,7 +414,7 @@ const products = [
   slug: "KU9202HG0G",
   name: "NEFFN70 KU9202HF0G Integrated Wine Cooler",
   description: "This integrated NEFF wine cooler will be a great showpiece for your home. It can hold up to 21 bottles of your favourite brands – you won’t need to nip to the shops for extras in a hurry. And you can adjust the temperature from 5 to 20 degrees to keep your collection in peak condition. Whether a Cabernet Sauvignon, Merlot or Pinot Blanc, every glass will taste delicious. Fancy a night cap? The LED lighting illuminates all the shelves, so you’ll never have trouble picking out a brand. Placing this model where you want is a doddle too, because the door can be adjusted to open from the left or right. ",
-  image: KU9202HG0G,
+  image: KU9202HG0Gtwo,
   ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
 },
 
