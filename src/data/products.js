@@ -436,22 +436,22 @@ const products = [
   ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
 },
 
-{
-  id: 41,
-  slug: "D5855X1GB",
-  name: "Neff N30 D5855X1GB 75cm Canopy Hood - Metallic Silver",
-  description: "This Neff N30 D5855X1GB Canopy Hood is the ultimate choice for a minimalist kitchen interior with specific compact spaces allotted for everything and the best way to keep them clean and odour-free.",
-  image: D5855X1GB,
-  ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
-},
-{
-  id: 42,
-  slug: "0010020391",
-  name: "Valliant ecoFit Pure 835 35kW Combi Gas Boiler ErP 0010020391",
-  description: "The Vaillant ecoFIT pure 35 kW Combination Boiler range has high quality components including an aluminium high efficiency heat exchanger, which makes the boiler not only light to install but also easy to maintain.",
-  image: v0010020391,
-  ebayLink: "https://www.ebay.co.uk/itm/287375918934",
-},
+// {
+//   id: 41,
+//   slug: "D5855X1GB",
+//   name: "Neff N30 D5855X1GB 75cm Canopy Hood - Metallic Silver",
+//   description: "This Neff N30 D5855X1GB Canopy Hood is the ultimate choice for a minimalist kitchen interior with specific compact spaces allotted for everything and the best way to keep them clean and odour-free.",
+//   image: D5855X1GB,
+//   ebayLink: "https://www.ebay.co.uk/str/olbtrading?_trksid=p4429486.m3561.l161211",
+// },
+// {
+//   id: 42,
+//   slug: "0010020391",
+//   name: "Valliant ecoFit Pure 835 35kW Combi Gas Boiler ErP 0010020391",
+//   description: "The Vaillant ecoFIT pure 35 kW Combination Boiler range has high quality components including an aluminium high efficiency heat exchanger, which makes the boiler not only light to install but also easy to maintain.",
+//   image: v0010020391,
+//   ebayLink: "https://www.ebay.co.uk/itm/287375918934",
+// },
 {
   id: 43,
   slug: "UBIND30FLC",
