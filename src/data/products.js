@@ -300,15 +300,15 @@ const products = [
     ebayLink: "https://www.ebay.co.uk/itm/287312903407",
   },
 
-  {
-    id: 26,
-    slug: "arco-thermostatic-valve",
-    name: "Arco Single Outlet Two Handle Thermostatic Concealed Valve SKU: 6001",
-    description:
-      "Concealed thermostatic shower valve with dual handle controls and modern minimalist styling.",
-    image: arcovalve,
-    ebayLink: "https://www.ebay.co.uk/itm/287312904223",
-  },
+  // {
+  //   id: 26,
+  //   slug: "arco-thermostatic-valve",
+  //   name: "Arco Single Outlet Two Handle Thermostatic Concealed Valve SKU: 6001",
+  //   description:
+  //     "Concealed thermostatic shower valve with dual handle controls and modern minimalist styling.",
+  //   image: arcovalve,
+  //   ebayLink: "https://www.ebay.co.uk/itm/287312904223",
+  // },
 
   {
     id: 27,
