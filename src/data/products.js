@@ -349,14 +349,14 @@ const products = [
     image: lev185b,
     ebayLink: "https://www.ebay.co.uk/itm/287329751541",
   },
-  {
-    id: 31,
-    slug: insde002,
-    name: "Instinct Della CC Cistern Inc Fittings White INSDE002",
-    description: "",
-    image: insde002,
-    ebayLink: "https://www.ebay.co.uk/itm/287358965157",
-  },
+  // {
+  //   id: 31,
+  //   slug: insde002,
+  //   name: "Instinct Della CC Cistern Inc Fittings White INSDE002",
+  //   description: "",
+  //   image: insde002,
+  //   ebayLink: "https://www.ebay.co.uk/itm/287358965157",
+  // },
   {
     id: 32,
     slug: "36.0029",
