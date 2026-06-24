@@ -48,7 +48,8 @@ import INSAN3037 from "../assets/images/Andros_INSAN3037_Image2.jpg"
 import HENRAD313044 from "../assets/images/GPID_5000185424_00.jpg"
 import HENRAD313018 from "../assets/images/Henrad-Column_LF.jpg"
 import HENRAD313049 from "../assets/images/henrad-4-column-radiator-750mm-x-440mm-l040018-1__71337.jpg"
-
+import BPR2205 from "../assets/images/prima-staten-tap-bpr2205-1.jpg"
+import FUR280PU from "../assets/images/FUR280PU.webp"
 const products = [
   {
     id: 1,
@@ -507,6 +508,22 @@ const products = [
   description: "The Henrad Column 4 radiator (product code 313049) is a white, 750mm high and 440mm long radiator with a heat output of 900W (3069 BTU). It weighs 19.8kg and has a depth of 148mm",
   image: HENRAD313049,
   ebayLink: "https://www.ebay.co.uk/itm/287369329209",
+},
+{
+  id: 50,
+  slug: "BPR2205",
+  name: "Prima Staten Swan Neck Dual Lever Kitchen Mixer Tap - Chrome - BPR2205",
+  description: "",
+  image: BPR2205,
+  ebayLink: "",
+},
+{
+  id: 49,
+  slug: "FUR280PU",
+  name: "Kartell Purity Standing Cloakroom Unit Without Basin- White FUR280PU",
+  description: "",
+  image: FUR280PU,
+  ebayLink: "",
 },
 ]
 
